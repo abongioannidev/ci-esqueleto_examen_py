@@ -1,4 +1,3 @@
-import tkinter
 from tkinter.messagebox import showinfo as alert
 from tkinter.messagebox import askyesno as question
 from tkinter.simpledialog import askstring as prompt
@@ -6,7 +5,7 @@ from typing import Optional, Tuple, Union
 import customtkinter
 
 '''
-Ejercicio 2
+Ejercicio 3
 Alumno: Nombre, Apellido
 Division: Div J
 
